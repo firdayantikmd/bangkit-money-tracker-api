@@ -1,5 +1,5 @@
 # bangkit-money-tracker-api
-This is the a simple app deployed to Google App Engine. The front end app can be found here https://github.com/firdayantikmd/bangkit-money-tracker.git.
+This is the a simple app deployed to Google App Engine. The frontend app can be found here https://github.com/firdayantikmd/bangkit-money-tracker.git.
 
 ## Prerequisites
 1. You have to cerate a Google Cloud Storage Bucket to store the uploaded images.
